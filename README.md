@@ -1,4 +1,4 @@
-![](https://github.com/recordspad/rims/logo.png "Logo Title Text 1")
+![](logo.png "Logo Title Text 1")
 
 
 # This is the Read me File for RIMS.ng
